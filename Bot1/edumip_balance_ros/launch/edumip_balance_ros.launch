@@ -1,0 +1,6 @@
+<launch>
+
+   <node name="edumip_balance_ros_node" pkg="edumip_balance_ros" type="edumip_balance_ros" output="screen" >
+   </node>
+
+</launch>
