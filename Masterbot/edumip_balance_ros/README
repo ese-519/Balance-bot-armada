@@ -1,0 +1,4 @@
+2017-02-14 LLW (llw@jhu.edu) Reference ROS node for balancing and
+driving the EduMIP based upon James Strawson's "rc_balance.c" reference
+solution for balancing the EduMIP found here:
+https://github.com/StrawsonDesign/Robotics_Cape_Installer
